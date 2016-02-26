@@ -12,12 +12,11 @@ Manage your joboffers easy within wordpress
 
 ##Description##
 
-With Palbo Career you can easily manage the joboffers you want publish in your wordpress page. The admin interface makes
-it easy to create, edit, delete or active and deactivate your job offers.  You can also seperate your joboffers by a
-given language. Currently you can separate your joboffers by the Languages de, nl and pl.
+With Palbo Career you can easily manage all your joboffers you to want publish in your wordpress page. The admin interface makes
+it easy to create, edit, delete, active or deactivate your job offers. You can also separate your joboffers by a given language.
+Currently the following Languages are supported de, nl and pl.
 
-Developers can easily extend or customize the plugin because of the SOLID principle was used during the development
-including smarty3 and composer autoload.
+Developers can easily extend or customize the plugin. It's written using the SOLID principle, smarty3 and composer autoload.
 
 ##Installation##
 
@@ -29,9 +28,9 @@ including smarty3 and composer autoload.
 5. Place the `[joboffer-list lang=de]` shortcode in you post or page to display the joboffers list
 6. Place the `[joboffer-view lang=de]` shortcode in your previously selected single view page to display the single view
 
-##Frequently Asked Questions##
+###Frequently Asked Questions###
 
-###Got an 500 Internal Error. Whats wrong###
+*Got an 500 Internal Error. Whats wrong*
 
 * Check out the folder privileges. The plugin tmp folder has to be writable for the web server. In case of not smarty can not generate the templates
 * Check the composer installation. The will not work if the dependencies are missing in the vendor dir
