@@ -42,7 +42,7 @@ class Activator
                 branch varchar(255) DEFAULT '' NOT NULL,
                 others text NOT NULL,
                 active tinyint(1) DEFAULT '0' NOT NULL,
-                languageid varchar(40) DEFAULT 'de' NOT NULL
+                languageid varchar(40) DEFAULT 'de' NOT NULL,
                 UNIQUE KEY id (id)
             ) $charsetCollate;";
 
