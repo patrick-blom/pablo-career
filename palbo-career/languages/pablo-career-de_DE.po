@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-02-09 19:44+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:283
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:97
+msgid "Activate"
+msgstr "Aktivieren"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:63
+msgid "Active"
+msgstr "Aktiv"
+
+#. ('pablo-career')
+#: pablo-career/admin/class-pablo-career-admin.php:134
+#: pablo-career/admin/class-pablo-career-admin.php:135
+msgid "Add Job Offer"
+msgstr "Jobangebot Erstellen"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:60
+msgid "Branch"
+msgstr "Niederlassung"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:62
+msgid "Creation Date"
+msgstr "Erstellungsdatum"
+
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:283
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:98
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:297
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:96
+msgid "Delete"
+msgstr "Löschen"
+
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:293
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. ('pablo-career')
+#: pablo-career/admin/class-pablo-career-admin.php:142
+#: pablo-career/admin/class-pablo-career-admin.php:143
+msgid "Job Offer Settings"
+msgstr "Jobangebote"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-form-handler.php:100
+msgid "Job Offer not found"
+msgstr "Kein Jobangebot gefunden"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-form-handler.php:68
+msgid "Job Offer was successfully saved"
+msgstr "Ihr Jobangebot wurde erfolgreich gespeichert"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-form-handler.php:79
+msgid "Job Offer was successfully updated"
+msgstr "Ihr Jobangebot wurde erfolgreich aktualisiert"
+
+#. ('pablo-career')
+#: pablo-career/admin/class-pablo-career-admin.php:113
+#: pablo-career/admin/class-pablo-career-admin.php:114
+#: pablo-career/admin/class-pablo-career-admin.php:125
+#: pablo-career/admin/class-pablo-career-admin.php:126
+msgid "Job Offers"
+msgstr "Jobangebote"
+
+#. ('pablo-career')
+#: pablo-career/admin/class-pablo-career-admin.php:185
+msgid "Job data"
+msgstr "Job Details"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-form-handler.php:70
+msgid "There was an error while saving Job Offer"
+msgstr "Beim speichern der Jobangebots ist ein Fehler aufgetreten"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-form-handler.php:81
+msgid "There was an error while updating Job Offer"
+msgstr "Beim aktuallisieren der Jobangebots ist ein Fehler aufgetreten"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:59
+msgid "Title"
+msgstr "Berufbezeichnung"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:61
+msgid "Working Houre"
+msgstr "Arbeitszeit"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:35
+msgid "job"
+msgstr "job"
+
+#. ('pablo-career')
+#: pablo-career/admin/includes/class-pablo-career-job-list.php:36
+msgid "jobs"
+msgstr "jobs"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Working Hours"
+msgstr "Arbeitszeit"
+
+msgid "Qualifications"
+msgstr "Qualifikation"
+
+msgid "Requirements"
+msgstr "Anforderungen"
+
+msgid "Additional Informations"
+msgstr "Ergänzungen"
+
+msgid "Wage"
+msgstr "Lohn/Gehalt"
+
+msgid "Workplace"
+msgstr "Arbeitsplatz"
+
+msgid "Others"
+msgstr "Sonstiges"
+
+msgid "a rellay cool job"
+msgstr "Ihr Traumjob"
+
+msgid "8 hours a day"
+msgstr "Vollzeit"
+
+msgid "IT specialist"
+msgstr "Abgeschlossene Tischlerausbildung "
+
+msgid "PHP and JS"
+msgstr "Zusammenbau von Tischen"
+
+msgid "15$/h"
+msgstr "ab 12€"
+
+msgid "Brooklyn"
+msgstr "Ahaus"
+
+msgid "FAIR New York"
+msgstr "FAIR Ahaus"
+
+msgid "Back to Joblist"
+msgstr "Zurück zur Angebotsübersicht"
+
+msgid "Edit Job Offer"
+msgstr "Jobangebot Bearbeiten"
+
+msgid "Page to display single job offer"
+msgstr "Seite die für die Einzeldarstellung genutzt werden soll"
+
+msgid "Please Choose"
+msgstr "Bitte Wählen"
+
+msgid "Could not Load Job"
+msgstr "Das gewünschte Jobangebot konnte nicht geladen werden"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "language_de"
+msgstr "Deutsch"
+
+msgid "language_pl"
+msgstr "Polnisch"
+
+msgid "language_nl"
+msgstr "Niederländisch"

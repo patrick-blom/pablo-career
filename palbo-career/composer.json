@@ -1,0 +1,21 @@
+{
+  "name": "pablo-career",
+  "version": "1.0.0",
+  "license": "GPLv2",
+  "auhtors": [
+    {
+      "name": "Patrick Blom",
+      "email": "info@bl0m.de",
+      "homepage": "https://github.com/patrick-blom",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "smarty/smarty": "~3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "PabloCareer\\": "src/"
+    }
+  }
+}
