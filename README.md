@@ -30,8 +30,8 @@ Developers can easily extend or customize the plugin. It's written using the SOL
 
 ###Frequently Asked Questions###
 
-**Got an 500 Internal Error. Whats wrong?**
+**I got an 500 Internal Error. Whats wrong?**
 
-* Check out the folder privileges. The plugin tmp folder has to be writable for the web server. In case of not smarty can not generate the templates
-* Check the composer installation. The will not work if the dependencies are missing in the vendor dir
+* Check out the folder privileges. The plugin tmp folder has to be writable for the web server. In case of not smarty can not generate the templates.
+* Check the composer installation. The will not work if the dependencies are missing in the vendor dir.
 * Check out your server logs. Maybe the plugin has some conflicts with another plugin. In this case, copy the thrown error and feel free to contact me on github or via mail info[at]bl0m[dot]de
