@@ -12,7 +12,7 @@ Manage your joboffers easy within wordpress
 
 ##Description##
 
-With Palbo Career you can easily manage all your joboffers you to want publish in your wordpress page. The admin interface makes
+With Pablo Career you can easily manage all your joboffers you to want publish in your wordpress page. The admin interface makes
 it easy to create, edit, delete, active or deactivate your job offers. You can also separate your joboffers by a given language.
 Currently the following Languages are supported de, nl and pl.
 
