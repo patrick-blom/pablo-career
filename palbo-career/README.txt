@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Pablo Career ===
 Contributors: pbl0m
 Donate link: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9SLVDBUGATJHC)
 Tags: content, joboffers, jobs, personal management, resource management
