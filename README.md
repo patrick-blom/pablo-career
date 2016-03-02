@@ -12,11 +12,10 @@ Manage your joboffers easy within wordpress
 
 ##Description##
 
-With Pablo Career you can easily manage all your joboffers you to want publish in your wordpress page. The admin interface makes
-it easy to create, edit, delete, active or deactivate your job offers. You can also separate your joboffers by a given language.
+With Pablo Career you can easily manage all your job offers you to want publish in your WordPress page. The admin interface makes
+it easy to create, edit, delete, active or deactivate your job offers. You can also separate your job offers by a given language.
 Currently the following Languages are supported de, nl and pl.
 
-Developers can easily extend or customize the plugin. It's written using the SOLID principle, smarty3 and composer autoload.
 
 ##Installation##
 
@@ -35,3 +34,12 @@ Developers can easily extend or customize the plugin. It's written using the SOL
 * Check out the folder privileges. The plugin tmp folder has to be writable for the web server. In case of not smarty can not generate the templates.
 * Check the composer installation. The will not work if the dependencies are missing in the vendor dir.
 * Check out your server logs. Maybe the plugin has some conflicts with another plugin. In this case, copy the thrown error and feel free to contact me on github or via mail info[at]bl0m[dot]de
+
+
+**How can I customize the Plugin-Templates**
+
+*The templates are stored in the `templates` folder inside the smarty directory beneath the plugin dir. Pablo Career uses Smarty3 which simplifies making changes to the templates.
+*For detailed information about smarty 3 visit the [official smarty project page](http://www.smarty.net/)
+
+**How can I edit the Plugin-Styles**
+*The Plugin-CSS is located in the `/public/css` directory inside plugin dir. Feel free to edit these to your needs.
