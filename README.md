@@ -23,7 +23,7 @@ Currently the following Languages are supported de, nl and pl.
 2. Install the required dependencies using composer
 2.1. If you don't know composer check out [https://getcomposer.org/](https://getcomposer.org/)
 3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Configure your joboffer single view page using the settings
+4. Configure your job offer single view page using the settings
 5. Place the `[joboffer-list lang=de]` shortcode in you post or page to display the job offers list
 6. Place the `[joboffer-view lang=de]` shortcode in your previously selected single view page to display the single view
 
