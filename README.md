@@ -8,7 +8,7 @@
 * License: GPLv2 or later
 * License URI: [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
 
-Manage your joboffers easy within wordpress
+Manage your job offers easy within WordPress
 
 ##Description##
 
