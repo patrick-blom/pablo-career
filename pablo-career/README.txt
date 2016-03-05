@@ -47,3 +47,12 @@ For detailed information about smarty 3 visit the [official smarty project page]
 
 = How can I edit the Plugin-Styles =
 The Plugin-CSS is located in the `/public/css` directory inside plugin dir. Feel free to edit these to your needs.
+
+== Changelog ==
+
+= v1.0.2 =
+* Edit shortcode rendering. Lists and detail view will now appear anywhere in the text and not only at the top
+* Add some documentation
+
+= v1.0.1 =
+* Add some documentation
