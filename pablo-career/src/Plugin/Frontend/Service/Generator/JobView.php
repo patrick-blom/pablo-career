@@ -53,8 +53,12 @@ class JobView implements Generator
             $job = array_shift( $jobs );
         }
 
+        ob_start();
+
         $this->smarty->assign( 'job', $job );
         $this->smarty->display( 'job.tpl' );
+
+        return ob_get_clean();
 
     }
 }

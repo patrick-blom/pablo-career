@@ -4,7 +4,7 @@
 * Tags: content, joboffers, jobs, personal management, resource management
 * Requires at least: 4.3.1
 * Tested up to: 4.4.2
-* Stable tag: 1.0.0
+* Stable tag: 1.0.1
 * License: GPLv2 or later
 * License URI: [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
 

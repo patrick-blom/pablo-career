@@ -62,7 +62,11 @@ class JobList implements Generator
 
         $joblist = $this->wordpressConfig->wpDb->get_results($sql, 'ARRAY_A');
 
+        ob_start();
+
         $this->smarty->assign('joblist', $joblist);
         $this->smarty->display('joblist.tpl');
+
+        return ob_get_clean();
     }
 }
