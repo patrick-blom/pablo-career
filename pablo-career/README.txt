@@ -50,7 +50,7 @@ The Plugin-CSS is located in the `/public/css` directory inside plugin dir. Feel
 
 == Changelog ==
 
-= v1.0.3=
+= v1.0.3 =
 * Fixing sort icon bug. Sorting icons were only displayed with a logged in user
 
 = v1.0.2 =
