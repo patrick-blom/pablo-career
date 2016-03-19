@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: content, joboffers, jobs, personal management, resource management
 Requires at least: 4.3.1
 Tested up to: 4.4.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ For detailed information about smarty 3 visit the [official smarty project page]
 The Plugin-CSS is located in the `/public/css` directory inside plugin dir. Feel free to edit these to your needs.
 
 == Changelog ==
+
+= v1.0.3=
+* Fixing sort icon bug. Sorting icons were only displayed with a logged in user
 
 = v1.0.2 =
 * Edit shortcode rendering. Lists and detail view will now appear anywhere in the text and not only at the top

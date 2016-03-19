@@ -38,7 +38,14 @@ class Loader
     {
         wp_enqueue_style(
             $this->pluginName,
-            dirname(plugin_dir_url(__FILE__)).'/../../../public/css/pablo-career-public.css',
+            dirname(plugin_dir_url(__FILE__)).'/../../../public/css/teaw-career-public.css',
+            array(),
+            $this->version,
+            'all'
+        );
+        wp_enqueue_style(
+            $this->pluginName.'-icons',
+            dirname(plugin_dir_url(__FILE__)).'/../../../public/css/dashicons.min.css',
             array(),
             $this->version,
             'all'

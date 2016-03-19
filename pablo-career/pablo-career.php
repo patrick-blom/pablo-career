@@ -8,7 +8,7 @@
  * Plugin Name:       Pablo Career
  * Plugin URI:        https://github.com/patrick-blom/pablo-career
  * Description:		  Manage your joboffers easy within wordpress
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Patrick Blom
  * Author URI:        https://github.com/patrick-blom/
  * License:           GPL-2.0+

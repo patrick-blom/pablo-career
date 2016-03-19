@@ -128,7 +128,7 @@ class PabloCareer
      */
     private function initStylesAndScripts()
     {
-        $helper = new StlyeScriptLoader('pablo-career', '1.0.0');
+        $helper = new StlyeScriptLoader('pablo-career', '1.0.3');
 
         $this->loader->add_action( 'wp_enqueue_scripts', $helper, 'loadFrontStyles' );
         $this->loader->add_action( 'wp_enqueue_scripts', $helper, 'loadFrontScripts' );
